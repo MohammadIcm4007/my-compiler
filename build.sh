@@ -1,6 +1,6 @@
 rm -rf ./build
-g++ my-compiler.cpp -o my-compiler
+g++ my-lang.cpp -o my-lang
 mkdir build
-mv my-compiler ./build
+mv my-lang ./build
 cp nasm ./build
 cp ld ./build
