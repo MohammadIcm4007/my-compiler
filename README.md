@@ -1,4 +1,4 @@
-# my-compiler[version 0.0.01 Alpha]
+# my-lang[version 0.0.01 Alpha]
 <br>
 simple compiler for education.
 
