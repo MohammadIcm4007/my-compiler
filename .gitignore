@@ -1,0 +1,45 @@
+# Python
+*.pyc
+__pycache__/
+
+# Virtual Environment
+venv/
+myenv/
+.env
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+.wheelhouse/
+
+# Test and coverage reports
+.coverage
+coverage.xml
+nosetests.xml
+test-results/
+pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Pytest cache
+.pytest_cache/
+
+# Other files to ignore
+*.log
+*.pot
+*.py[cod]

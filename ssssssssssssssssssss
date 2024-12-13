@@ -1,0 +1,59 @@
+[33mcommit e3eac8e4e78730eb16ad9208adc2fcb0c36e658d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: mohammad <mohammadmehdisharife@gmail.com>
+Date:   Fri Dec 13 19:17:33 2024 +0330
+
+    init Lexer
+
+[33mcommit 7bb35f9d5082f1adac3c7de95e67d513a0ce3d63[m
+Author: mohammadmehdisharife <95574272+MohammadIcm4007@users.noreply.github.com>
+Date:   Fri Dec 13 19:05:13 2024 +0330
+
+    Update README.md
+    
+    fix bug
+
+[33mcommit 88a7e325ecf053ecdacd1d889ff8953027df06f4[m
+Author: mohammadmehdisharife <95574272+MohammadIcm4007@users.noreply.github.com>
+Date:   Fri Dec 13 19:04:29 2024 +0330
+
+    Update build.sh
+    
+    fix bug
+
+[33mcommit 6a3efb639360627719a1e432fe94764fbc8fccef[m
+Author: mohammadmehdisharife <95574272+MohammadIcm4007@users.noreply.github.com>
+Date:   Fri Dec 13 19:03:27 2024 +0330
+
+    Rename my-compiler.cpp to my-lang.cpp
+    
+    fix bug
+
+[33mcommit 3b12efb25d65e32ada6f2364fa2daecbf2985a25[m
+Author: mohammad <mohammadmehdisharife@gmail.com>
+Date:   Thu Dec 12 11:22:08 2024 +0330
+
+    fix bugs3
+
+[33mcommit 618a714339980ba5c028424b58b6d9934920e7f8[m
+Author: mohammad <mohammadmehdisharife@gmail.com>
+Date:   Wed Dec 11 23:17:43 2024 +0330
+
+    use c++ remove python
+
+[33mcommit 40a6bc2314673cdd2b1bad8ceddcde433b6f21c6[m
+Author: mohammad <mohammadmehdisharife@gmail.com>
+Date:   Wed Dec 11 21:19:32 2024 +0330
+
+    fix bug2
+
+[33mcommit 9e4e9764df9b1676018f510e28a4c97fd1f71b91[m
+Author: mohammad <mohammadmehdisharife@gmail.com>
+Date:   Wed Dec 11 21:17:09 2024 +0330
+
+    fix bug
+
+[33mcommit 524bc24d329f6158c2d1b4af83cf667b13a2e255[m
+Author: mohammadmehdisharife <95574272+MohammadIcm4007@users.noreply.github.com>
+Date:   Wed Dec 11 21:00:32 2024 +0330
+
+    Initial commit
